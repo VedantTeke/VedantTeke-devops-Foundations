@@ -1,2 +1,0 @@
-acc id : 536300833082
-acc alias : https://vedya.signin.aws.amazon.com/console
